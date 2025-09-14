@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RecFX/static/css/main.0637664c.css",
+    "main.js": "/RecFX/static/js/main.85624580.js",
+    "index.html": "/RecFX/index.html",
+    "main.0637664c.css.map": "/RecFX/static/css/main.0637664c.css.map",
+    "main.85624580.js.map": "/RecFX/static/js/main.85624580.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0637664c.css",
+    "static/js/main.85624580.js"
+  ]
+}
