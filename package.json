@@ -2,7 +2,7 @@
   "name": "recfx",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hayzer-codes.github.io/recfx",
+  "homepage": "https://bennhub.github.io/RecFX",
   "dependencies": {
     "lucide-react": "^0.539.0",
     "react": "^19.1.1",

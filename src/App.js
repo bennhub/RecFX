@@ -754,15 +754,16 @@ const VoiceEffectsApp = () => {
     <div className="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900 flex flex-col items-center justify-center p-4">
       {/* Header */}
       <div className="text-center mb-8">
-        <h1 className="text-4xl font-bold text-white mb-2">Voice Effects</h1>
-        <p className="text-blue-200">Transform your voice with amazing effects</p>
+        <h1 className="text-4xl font-bold text-white mb-2">Rec FX</h1>
+        <p className="text-blue-200">Record Live Sounds, Add Effects, Download & Share</p>
+        <p className="text-blue-200">For best experience, use headphones.</p>
       </div>
 
       {/* Controls */}
       <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-6 w-full max-w-md mb-8">
         {/* Effect Selection */}
         <div className="mb-6">
-          <label className="block text-white text-sm font-medium mb-3">Voice Effect</label>
+          <label className="block text-white text-sm font-medium mb-3">Sound FX</label>
           <select 
             value={selectedEffect} 
             onChange={(e) => setSelectedEffect(e.target.value)}
